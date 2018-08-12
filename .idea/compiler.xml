@@ -9,5 +9,8 @@
         <module name="Notepad" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Notepad" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
